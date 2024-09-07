@@ -9305,19 +9305,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Likitha.P\\.nuget\\packages\\": {}
+    "C:\\Users\\Spoorthi.M\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\RatingWebApi\\RatingWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\RatingWebApi.csproj",
       "projectName": "RatingWebApi",
-      "projectPath": "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\RatingWebApi\\RatingWebApi.csproj",
-      "packagesPath": "C:\\Users\\Likitha.P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\RatingWebApi\\obj\\",
+      "projectPath": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\RatingWebApi.csproj",
+      "packagesPath": "C:\\Users\\Spoorthi.M\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Likitha.P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Spoorthi.M\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9332,11 +9332,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\Rating.Data\\Rating.Data.csproj": {
-              "projectPath": "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\Rating.Data\\Rating.Data.csproj"
+            "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Rating.Data.csproj": {
+              "projectPath": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Rating.Data.csproj"
             },
-            "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\Rating.Domain\\Rating.Domain.csproj": {
-              "projectPath": "C:\\Users\\Likitha.P\\OneDrive - Consilio\\Desktop\\repository\\Book_Barn_Rating\\Rating.Domain\\Rating.Domain.csproj"
+            "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Rating.Domain.csproj": {
+              "projectPath": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Rating.Domain.csproj"
             }
           }
         }

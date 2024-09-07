@@ -93,7 +93,7 @@ namespace Rating.Data.Migrations
                         {
                             ReviewId = 1,
                             BookId = 1001,
-                            RatedDate = new DateTime(2024, 8, 27, 23, 49, 25, 902, DateTimeKind.Local).AddTicks(1601),
+                            RatedDate = new DateTime(2024, 8, 28, 16, 52, 38, 83, DateTimeKind.Local).AddTicks(8824),
                             Rating = 5,
                             Review = "Great book on C# programming.",
                             UserId = 2001
@@ -102,7 +102,7 @@ namespace Rating.Data.Migrations
                         {
                             ReviewId = 2,
                             BookId = 1001,
-                            RatedDate = new DateTime(2024, 8, 29, 23, 49, 25, 902, DateTimeKind.Local).AddTicks(1633),
+                            RatedDate = new DateTime(2024, 8, 30, 16, 52, 38, 83, DateTimeKind.Local).AddTicks(8845),
                             Rating = 4,
                             Review = "Informative but a bit lengthy.",
                             UserId = 2002
@@ -111,7 +111,7 @@ namespace Rating.Data.Migrations
                         {
                             ReviewId = 3,
                             BookId = 1002,
-                            RatedDate = new DateTime(2024, 9, 1, 23, 49, 25, 902, DateTimeKind.Local).AddTicks(1637),
+                            RatedDate = new DateTime(2024, 9, 2, 16, 52, 38, 83, DateTimeKind.Local).AddTicks(8847),
                             Rating = 5,
                             Review = "Excellent introduction to algorithms.",
                             UserId = 2003

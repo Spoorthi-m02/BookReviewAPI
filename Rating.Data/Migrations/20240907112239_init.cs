@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Rating.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class Ratings : Migration
+    public partial class init : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -59,9 +59,9 @@ namespace Rating.Data.Migrations
                 columns: new[] { "ReviewId", "BookId", "RatedDate", "Rating", "Review", "UserId" },
                 values: new object[,]
                 {
-                    { 1, 1001, new DateTime(2024, 8, 27, 23, 49, 25, 902, DateTimeKind.Local).AddTicks(1601), 5, "Great book on C# programming.", 2001 },
-                    { 2, 1001, new DateTime(2024, 8, 29, 23, 49, 25, 902, DateTimeKind.Local).AddTicks(1633), 4, "Informative but a bit lengthy.", 2002 },
-                    { 3, 1002, new DateTime(2024, 9, 1, 23, 49, 25, 902, DateTimeKind.Local).AddTicks(1637), 5, "Excellent introduction to algorithms.", 2003 }
+                    { 1, 1001, new DateTime(2024, 8, 28, 16, 52, 38, 83, DateTimeKind.Local).AddTicks(8824), 5, "Great book on C# programming.", 2001 },
+                    { 2, 1001, new DateTime(2024, 8, 30, 16, 52, 38, 83, DateTimeKind.Local).AddTicks(8845), 4, "Informative but a bit lengthy.", 2002 },
+                    { 3, 1002, new DateTime(2024, 9, 2, 16, 52, 38, 83, DateTimeKind.Local).AddTicks(8847), 5, "Excellent introduction to algorithms.", 2003 }
                 });
         }
 

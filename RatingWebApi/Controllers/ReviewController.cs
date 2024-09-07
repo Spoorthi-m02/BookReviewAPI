@@ -25,7 +25,7 @@ namespace Rating.WebApi.Controllers
                 return BadRequest(ModelState);
 
             await _reviewRepository.AddReviewAsync(review);
-            return Ok("Review added successfully.");
+            return Ok(new { message = "Review added successfully." });
         }
 
         // 2. GET: api/reviews/{bookId} - Get all reviews for a specific book
