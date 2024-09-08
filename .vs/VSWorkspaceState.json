@@ -6,7 +6,9 @@
     "\\Rating.Domain",
     "\\Rating.Domain\\Entties",
     "\\Rating.Domain\\Properties",
-    "\\RatingWebApi"
+    "\\Rating.Domain\\Repository",
+    "\\RatingWebApi",
+    "\\RatingWebApi\\Controllers"
   ],
   "SelectedNode": "\\Book_Barn_Rating.sln",
   "PreviewInSolutionExplorer": false

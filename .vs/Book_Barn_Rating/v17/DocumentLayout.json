@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{D1D52BDC-4068-4D46-BF2B-C64B709E7155}|RatingWebApi\\RatingWebApi.csproj|solutionrelative:ratingwebapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|c:\\users\\spoorthi.m\\desktop\\angularprojects\\book_barn\\rating.data\\averageratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|solutionrelative:rating.data\\averageratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|c:\\users\\spoorthi.m\\desktop\\angularprojects\\book_barn\\rating.data\\rating.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|solutionrelative:rating.data\\rating.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1D52BDC-4068-4D46-BF2B-C64B709E7155}|RatingWebApi\\RatingWebApi.csproj|c:\\users\\spoorthi.m\\desktop\\angularprojects\\book_barn\\ratingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1D52BDC-4068-4D46-BF2B-C64B709E7155}|RatingWebApi\\RatingWebApi.csproj|solutionrelative:ratingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|c:\\users\\spoorthi.m\\desktop\\angularprojects\\book_barn\\rating.data\\ratingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|solutionrelative:rating.data\\ratingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|c:\\users\\spoorthi.m\\desktop\\angularprojects\\book_barn\\rating.data\\rating.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7E0C9B0E-BBDB-4B7D-A9E9-46B055C435B8}|Rating.Data\\Rating.Data.csproj|solutionrelative:rating.data\\rating.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1D52BDC-4068-4D46-BF2B-C64B709E7155}|RatingWebApi\\RatingWebApi.csproj|c:\\users\\spoorthi.m\\desktop\\angularprojects\\book_barn\\ratingwebapi\\ratingwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,33 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Program.cs",
-              "RelativeDocumentMoniker": "Rating.Data\\Program.cs",
-              "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Program.cs",
-              "RelativeToolTip": "Rating.Data\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "AverageRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\AverageRatingRepository.cs",
+              "RelativeDocumentMoniker": "Rating.Data\\AverageRatingRepository.cs",
+              "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\AverageRatingRepository.cs",
+              "RelativeToolTip": "Rating.Data\\AverageRatingRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T18:08:50.289Z",
+              "WhenOpened": "2024-09-08T14:54:35.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AverageRating.cs",
-              "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Entties\\AverageRating.cs",
-              "RelativeDocumentMoniker": "Rating.Domain\\Entties\\AverageRating.cs",
-              "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Entties\\AverageRating.cs",
-              "RelativeToolTip": "Rating.Domain\\Entties\\AverageRating.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T10:09:38.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RatingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\RatingDbContext.cs",
               "RelativeDocumentMoniker": "Rating.Data\\RatingDbContext.cs",
@@ -116,12 +107,11 @@
               "RelativeToolTip": "Rating.Data\\RatingDbContext.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAgwBkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T10:07:38.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T10:07:38.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Rating.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Rating.Domain.csproj",
               "RelativeDocumentMoniker": "Rating.Domain\\Rating.Domain.csproj",
@@ -133,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RatingWebApi.csproj",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\RatingWebApi.csproj",
               "RelativeDocumentMoniker": "RatingWebApi\\RatingWebApi.csproj",
@@ -145,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Rating.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Rating.Data.csproj",
               "RelativeDocumentMoniker": "Rating.Data\\Rating.Data.csproj",
@@ -153,7 +143,8 @@
               "RelativeToolTip": "Rating.Data\\Rating.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T10:06:13.484Z"
+              "WhenOpened": "2024-09-06T10:06:13.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,27 +154,51 @@
               "RelativeDocumentMoniker": "RatingWebApi\\Controllers\\ReviewController.cs",
               "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "RatingWebApi\\Controllers\\ReviewController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAUwJkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T15:43:59.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "AverageRating.cs",
+              "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Entties\\AverageRating.cs",
+              "RelativeDocumentMoniker": "Rating.Domain\\Entties\\AverageRating.cs",
+              "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Entties\\AverageRating.cs",
+              "RelativeToolTip": "Rating.Domain\\Entties\\AverageRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:09:38.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Program.cs",
+              "RelativeDocumentMoniker": "Rating.Data\\Program.cs",
+              "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Program.cs",
+              "RelativeToolTip": "Rating.Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:08:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\Program.cs",
               "RelativeDocumentMoniker": "RatingWebApi\\Program.cs",
               "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\Program.cs",
               "RelativeToolTip": "RatingWebApi\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T17:35:45.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Entties\\Review.cs",
               "RelativeDocumentMoniker": "Rating.Domain\\Entties\\Review.cs",
@@ -191,12 +206,11 @@
               "RelativeToolTip": "Rating.Domain\\Entties\\Review.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T10:13:00.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T10:13:00.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20240907112239_init.cs",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\Migrations\\20240907112239_init.cs",
               "RelativeDocumentMoniker": "Rating.Data\\Migrations\\20240907112239_init.cs",
@@ -204,12 +218,11 @@
               "RelativeToolTip": "Rating.Data\\Migrations\\20240907112239_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:22:40.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T11:22:40.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Data\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "Rating.Data\\ReviewRepository.cs",
@@ -217,12 +230,11 @@
               "RelativeToolTip": "Rating.Data\\ReviewRepository.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T17:33:52.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T17:33:52.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "RatingWebApi\\appsettings.json",
@@ -230,8 +242,7 @@
               "RelativeToolTip": "RatingWebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T17:50:50.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T17:50:50.906Z"
             }
           ]
         }
