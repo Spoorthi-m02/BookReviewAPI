@@ -4107,19 +4107,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Spoorthi.M\\.nuget\\packages\\": {}
+    "C:\\Users\\Aman.Tomar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Rating.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookReviewAPI\\Rating.Domain\\Rating.Domain.csproj",
       "projectName": "Rating.Domain",
-      "projectPath": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Rating.Domain.csproj",
-      "packagesPath": "C:\\Users\\Spoorthi.M\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookReviewAPI\\Rating.Domain\\Rating.Domain.csproj",
+      "packagesPath": "C:\\Users\\Aman.Tomar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aman.Tomar\\source\\BookBarn\\BookReviewAPI\\Rating.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Spoorthi.M\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aman.Tomar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
