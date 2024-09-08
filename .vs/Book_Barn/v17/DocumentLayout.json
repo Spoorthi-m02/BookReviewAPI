@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Rating.Domain\\Entties\\AverageRating.cs",
               "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\Rating.Domain\\Entties\\AverageRating.cs",
               "RelativeToolTip": "Rating.Domain\\Entties\\AverageRating.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T15:54:00.322Z",
               "EditorCaption": ""
@@ -94,8 +94,7 @@
               "RelativeToolTip": "Rating.Data\\ReviewRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:52:10.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T15:52:10.424Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/BookBarnReview/True/SqlTable/dbo.Reviews.sql",
               "ToolTip": "dbo.Reviews [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-07T14:38:55.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T14:38:55.028Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "Rating.Domain\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:59:27.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:59:27.507Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:59:18.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:59:18.918Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "RatingWebApi\\RatingWebApi.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-07T10:59:11.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:59:11.653Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "RatingWebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:58:43.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:58:43.654Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "RatingWebApi\\Controllers\\ReviewController.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:58:33.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:58:33.677Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "Rating.Data\\RatingDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T10:58:15.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:58:15.176Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "Rating.Data\\Rating.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-07T10:58:12.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T10:58:12.69Z"
             }
           ]
         }

@@ -103,7 +103,8 @@
               "RelativeToolTip": "Rating.Domain\\Entties\\AverageRating.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T10:09:38.766Z"
+              "WhenOpened": "2024-09-06T10:09:38.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -162,7 +163,7 @@
               "RelativeDocumentMoniker": "RatingWebApi\\Controllers\\ReviewController.cs",
               "ToolTip": "C:\\Users\\Spoorthi.M\\Desktop\\AngularProjects\\Book_Barn\\RatingWebApi\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "RatingWebApi\\Controllers\\ReviewController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAABGAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T15:43:59.527Z",
               "EditorCaption": ""
@@ -190,7 +191,8 @@
               "RelativeToolTip": "Rating.Domain\\Entties\\Review.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T10:13:00.913Z"
+              "WhenOpened": "2024-09-06T10:13:00.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -202,7 +204,8 @@
               "RelativeToolTip": "Rating.Data\\Migrations\\20240907112239_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T11:22:40.588Z"
+              "WhenOpened": "2024-09-07T11:22:40.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,7 +217,8 @@
               "RelativeToolTip": "Rating.Data\\ReviewRepository.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T17:33:52.81Z"
+              "WhenOpened": "2024-09-06T17:33:52.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -226,7 +230,8 @@
               "RelativeToolTip": "RatingWebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T17:50:50.906Z"
+              "WhenOpened": "2024-09-06T17:50:50.906Z",
+              "EditorCaption": ""
             }
           ]
         }
